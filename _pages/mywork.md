@@ -46,51 +46,60 @@ insight. Visit the [teaching](/teaching)-section to explore the courses I have d
 
 <div class="container text-center">
     <div class="row justify-content-center">
+
+    
+        <div class="col-md-6 col-lg-6 col-sm col-xs">
+             <iframe id="kaltura_player_775255843"
+                src="https://cdnapisec.kaltura.com/p/1921661/embedPlaykitJs/uiconf_id/54739572?iframeembed=true&entry_id=1_k0yu8kie&wid=_1921661&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true&flashvars[hotspots.plugin]=true"
+                allowfullscreen webkitallowfullscreen mozAllowFullScreen
+                allow="autoplay *; fullscreen *; encrypted-media *" style="width:400px;height:285px;border:0;"></iframe>
+        </div>
+
         <div class="col-md-6 col-lg-6 col-sm col-xs">
             <iframe id="kaltura_player_775255843"
-                src="https://cdnapisec.kaltura.com/p/1921661/sp/192166100/embedIframeJs/uiconf_id/35919811/partner_id/1921661?iframeembed=true&playerId=kaltura_player_775255843&entry_id=1_d7ftdpwk&wid=_1921661&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true&flashvars[hotspots.plugin]=true"
+                src="https://cdnapisec.kaltura.com/p/1921661/embedPlaykitJs/uiconf_id/54739572?iframeembed=true&entry_id=1_d7ftdpwk&wid=_1921661&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true&flashvars[hotspots.plugin]=true"
                 allowfullscreen webkitallowfullscreen mozAllowFullScreen
                 allow="autoplay *; fullscreen *; encrypted-media *" style="width:400px;height:285px;border:0;"></iframe>
         </div>
 
         <div class="col-md-6 col-lg-6 col-sm  col-xs">
             <iframe id="kaltura_player_1774272607"
-                src="https://cdnapisec.kaltura.com/p/1921661/sp/192166100/embedIframeJs/uiconf_id/35919811/partner_id/1921661?iframeembed=true&playerId=kaltura_player_1774272607&entry_id=1_lw7hh519&wid=_1921661&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true&flashvars[hotspots.plugin]=true"
+                src="https://cdnapisec.kaltura.com/p/1921661/embedIframeJs/uiconf_id/35919811/partner_id/1921661?iframeembed=true&playerId=kaltura_player_1774272607&entry_id=1_lw7hh519&wid=_1921661&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true&flashvars[hotspots.plugin]=true"
                 allowfullscreen webkitallowfullscreen mozAllowFullScreen
                 allow="autoplay *; fullscreen *; encrypted-media *" style="width:400px;height:285px;border:0;"></iframe>
         </div>
 
         <div class="col-md-6 col-lg-6 col-sm col-xs">
             <iframe id=" kaltura_player_1122860720"
-                src="https://cdnapisec.kaltura.com/p/1921661/sp/192166100/embedIframeJs/uiconf_id/35919811/partner_id/1921661?iframeembed=true&playerId=kaltura_player_1122860720&entry_id=1_8irstybm&wid=_1921661&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true&flashvars[hotspots.plugin]=true"
+                src="https://cdnapisec.kaltura.com/p/1921661/embedIframeJs/uiconf_id/35919811/partner_id/1921661?iframeembed=true&playerId=kaltura_player_1122860720&entry_id=1_8irstybm&wid=_1921661&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true&flashvars[hotspots.plugin]=true"
                 allowfullscreen webkitallowfullscreen mozAllowFullScreen
                 allow="autoplay *; fullscreen *; encrypted-media *" style="width:400px;height:285px;border:0;"></iframe>
         </div>
 
         <div class="col-md-6 col-lg-6 col-sm col-xs">
             <iframe id=" kaltura_player_1787359810"
-                src="https://cdnapisec.kaltura.com/p/1921661/sp/192166100/embedIframeJs/uiconf_id/35919811/partner_id/1921661?iframeembed=true&playerId=kaltura_player_1787359810&entry_id=1_tc747ib3&wid=_1921661&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true&flashvars[hotspots.plugin]=true"
+                src="https://cdnapisec.kaltura.com/p/1921661/embedIframeJs/uiconf_id/35919811/partner_id/1921661?iframeembed=true&playerId=kaltura_player_1787359810&entry_id=1_tc747ib3&wid=_1921661&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true&flashvars[hotspots.plugin]=true"
                 allowfullscreen webkitallowfullscreen mozAllowFullScreen
                 allow="autoplay *; fullscreen *; encrypted-media *" style="width:400px;height:285px;border:0;"></iframe>
         </div>
 
         <div class="col-md-6 col-lg-6 col-sm col-xs">
             <iframe id=" kaltura_player_923621854"
-                src="https://cdnapisec.kaltura.com/p/1921661/sp/192166100/embedIframeJs/uiconf_id/35919811/partner_id/1921661?iframeembed=true&playerId=kaltura_player_923621854&entry_id=1_berxoesu&wid=_1921661&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true&flashvars[hotspots.plugin]=true"
+                src="https://cdnapisec.kaltura.com/p/1921661/embedIframeJs/uiconf_id/35919811/partner_id/1921661?iframeembed=true&playerId=kaltura_player_923621854&entry_id=1_berxoesu&wid=_1921661&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true&flashvars[hotspots.plugin]=true"
                 allowfullscreen webkitallowfullscreen mozAllowFullScreen
                 allow="autoplay *; fullscreen *; encrypted-media *" style="width:400px;height:285px;border:0;"></iframe>
         </div>
 
         <div class="col-md-6 col-lg-6 col-sm col-xs">
             <iframe id=" kaltura_player_1144408321"
-                src="https://cdnapisec.kaltura.com/p/1921661/sp/192166100/embedIframeJs/uiconf_id/35919811/partner_id/1921661?iframeembed=true&playerId=kaltura_player_1144408321&entry_id=1_fl5omqxc&wid=_1921661&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true&flashvars[hotspots.plugin]=true"
+                src="https://cdnapisec.kaltura.com/p/1921661/embedIframeJs/uiconf_id/35919811/partner_id/1921661?iframeembed=true&playerId=kaltura_player_1144408321&entry_id=1_fl5omqxc&wid=_1921661&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true&flashvars[hotspots.plugin]=true"
                 allowfullscreen webkitallowfullscreen mozAllowFullScreen
                 allow="autoplay *; fullscreen *; encrypted-media *" style="width:400px;height:285px;border:0;"></iframe>
         </div>
 
         <div class="col-md-6 col-lg-6 col-sm col-xs">
             <iframe id=" kaltura_player_971600267"
-                src="https://cdnapisec.kaltura.com/p/1921661/sp/192166100/embedIframeJs/uiconf_id/35919811/partner_id/1921661?iframeembed=true&playerId=kaltura_player_971600267&entry_id=1_cyydils8&wid=_1921661&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true&flashvars[hotspots.plugin]=true"
+                src="https://cdnapisec.kaltura.com/p/1921661/embedIframeJs/uiconf_id/35919811/partner_id/1921661?iframeembed=true&playerId=kaltura_player_971600267&entry_id=1_cyydils8&wid=_1921661&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true&flashvars[hotspots.plugin]=true"
                 allowfullscreen webkitallowfullscreen mozAllowFullScreen
                 allow="autoplay *; fullscreen *; encrypted-media *" style="width:400px;height:285px;border:0;"></iframe>
         </div>
@@ -98,34 +107,34 @@ insight. Visit the [teaching](/teaching)-section to explore the courses I have d
         <div class="col-md-6 col-lg-6 col-sm col-xs">
             <script
                 src="
-            https://cdnapisec.kaltura.com/p/1921661/sp/192166100/embedIframeJs/uiconf_id/35919811/partner_id/1921661?autoembed=true&entry_id=1_0mtwkyf9&wid=_1921661&playerId=kaltura_player_962082517&width=400&height=285&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true&flashvars[hotspots.plugin]=true">
+            https://cdnapisec.kaltura.com/p/1921661/embedIframeJs/uiconf_id/35919811/partner_id/1921661?autoembed=true&entry_id=1_0mtwkyf9&wid=_1921661&playerId=kaltura_player_962082517&width=400&height=285&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true&flashvars[hotspots.plugin]=true">
             </script>
         </div>
 
         <div class="col-md-6 col-lg-6 col-sm col-xs">
             <iframe id=" kaltura_player_1545981982"
-                src="https://cdnapisec.kaltura.com/p/1921661/sp/192166100/embedIframeJs/uiconf_id/35919811/partner_id/1921661?iframeembed=true&playerId=kaltura_player_1545981982&entry_id=1_zbfke7l7&wid=_1921661&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true&flashvars[hotspots.plugin]=true"
+                src="https://cdnapisec.kaltura.com/p/1921661/embedIframeJs/uiconf_id/35919811/partner_id/1921661?iframeembed=true&playerId=kaltura_player_1545981982&entry_id=1_zbfke7l7&wid=_1921661&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true&flashvars[hotspots.plugin]=true"
                 allowfullscreen webkitallowfullscreen mozAllowFullScreen
                 allow="autoplay *; fullscreen *; encrypted-media *" style="width:400px;height:285px;border:0;"></iframe>
         </div>
 
         <div class="col-md-6 col-lg-6 col-sm col-xs">
             <iframe id=" kaltura_player_546595300"
-                src="https://cdnapisec.kaltura.com/p/1921661/sp/192166100/embedIframeJs/uiconf_id/35919811/partner_id/1921661?iframeembed=true&playerId=kaltura_player_546595300&entry_id=1_zbfke7l7&wid=_1921661&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true&flashvars[hotspots.plugin]=true"
+                src="https://cdnapisec.kaltura.com/p/1921661/embedIframeJs/uiconf_id/35919811/partner_id/1921661?iframeembed=true&playerId=kaltura_player_546595300&entry_id=1_zbfke7l7&wid=_1921661&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true&flashvars[hotspots.plugin]=true"
                 allowfullscreen webkitallowfullscreen mozAllowFullScreen
                 allow="autoplay *; fullscreen *; encrypted-media *" style="width:400px;height:285px;border:0;"></iframe>
         </div>
 
         <div class="col-md-6 col-lg-6 col-sm col-xs">
             <iframe id=" kaltura_player_1309720417"
-                src="https://cdnapisec.kaltura.com/p/1921661/sp/192166100/embedIframeJs/uiconf_id/35919811/partner_id/1921661?iframeembed=true&playerId=kaltura_player_1309720417&entry_id=1_1k5sqcae&wid=_1921661&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true&flashvars[hotspots.plugin]=true"
+                src="https://cdnapisec.kaltura.com/p/1921661/embedIframeJs/uiconf_id/35919811/partner_id/1921661?iframeembed=true&playerId=kaltura_player_1309720417&entry_id=1_1k5sqcae&wid=_1921661&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true&flashvars[hotspots.plugin]=true"
                 allowfullscreen webkitallowfullscreen mozAllowFullScreen
                 allow="autoplay *; fullscreen *; encrypted-media *" style="width:400px;height:285px;border:0;"></iframe>
         </div>
 
         <div class="col-md-6 col-lg-6 col-sm col-xs">
             <iframe id="kaltura_player_1305003378"
-                src="https://cdnapisec.kaltura.com/p/1921661/sp/192166100/embedIframeJs/uiconf_id/35919811/partner_id/1921661?iframeembed=true&playerId=kaltura_player_1305003378&entry_id=1_62yspoiq&wid=_1921661&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true&flashvars[hotspots.plugin]=true"
+                src="https://cdnapisec.kaltura.com/p/1921661/embedIframeJs/uiconf_id/35919811/partner_id/1921661?iframeembed=true&playerId=kaltura_player_1305003378&entry_id=1_62yspoiq&wid=_1921661&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true&flashvars[hotspots.plugin]=true"
                 allowfullscreen webkitallowfullscreen mozAllowFullScreen
                 allow="autoplay *; fullscreen *; encrypted-media *" style="width:400px;height:285px;border:0;"></iframe>
         </div>
