@@ -1,7 +1,7 @@
 ---
 layout: mywork
 title: My Work at SAP
-permalink: /mywork/
+permalink: /my-work-at-sap/
 ---
 
 <div class="owl-carousel owl-theme">
