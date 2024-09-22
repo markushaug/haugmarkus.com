@@ -1,7 +1,6 @@
 ---
 layout: page
 title: my work
-permalink: /mywork
 nav: true
 nav_order: 3
 dropdown: true
