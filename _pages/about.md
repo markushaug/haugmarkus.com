@@ -1,21 +1,11 @@
 ---
-layout: about
+layout: modern_about
 title: about me
-og_title: Markus Haug - SAP | Founder | AI/ML Enthusiast
 permalink: /
-subtitle: <b>Developer | Technologist | Founder | Cloud-Native Expert | AI & Deep Learning Enthusiast</b>
-
 profile:
   align: right
   image: mh.png
-  image_circular: true # crops the image to make it circular
-  more_info:
-
-news: true  # includes a list of news items
-latest_posts: false  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
----
+  image_circular: true
 
 As a *Senior Product Learning Specialist* at [SAP](https://sap.com/), I'm an advisor and advocate for the SAP developer community, blending technical expertise, deep product knowledge, and engaging speaking skills to support developers through their learning journeys, overcoming challenges, and achieving SAP certifications worldwide. See [my work at SAP](/my-work-at-sap) for more details.
 
