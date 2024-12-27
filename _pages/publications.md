@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /blog/
-title: blog
+title: Blog
 description: blog posts in chronological order
 nav: true
 nav_order: 2

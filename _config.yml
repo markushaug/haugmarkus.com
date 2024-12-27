@@ -8,9 +8,9 @@ middle_name:
 last_name: Haug
 email: mh@haugmarkus.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Markus Haug - Senior Product Learning Specialist at SAP, Founder of Paperhub and Owner of Markus Haug Digital Services. 
+  Markus Haug - Senior Product Learning Specialist at SAP, Founder of Markus Haug Digital Services. 
 footer_text: >
-job_title: Senior Product Learning Specialist at SAP
+job_title: Senior Product Learning Specialist at SAP & Founder of Markus Haug Digital Services
 alumni_of: IU International University of Applied Sciences
 keywords: markus haug, markus haug sap, sap, deep learning, paperhub, markus haug digital services, ai, machine learning, computer science, markus haug computer science, markus haug informatik, markus haug heilbronn, markus haug stuttgart # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
