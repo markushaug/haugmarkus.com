@@ -1,0 +1,626 @@
+---
+layout: default
+---
+
+<!-- modern_about.html -->
+<div class="modern-about">
+  <div class="hero-section">
+    <div class="hero-content">
+      <h1 class="name">{{ site.first_name }} {{ site.last_name }}</h1>
+      <p class="tagline">Tech Entrepreneur | Cloud & AI Expert | Tech Innovator</p>
+
+      <div class="intro">
+        <style>
+          .custom-link-black {
+            color: #111 !important;
+            text-decoration: none;
+            transition: text-decoration 0.2s;
+          }
+          .custom-link-black:hover,
+          .custom-link-black:focus {
+            text-decoration: underline;
+          }
+        </style>
+        <p>
+          Markus Haug is a serial tech entrepreneur and Senior Product Learning Specialist at
+          <a href="https://sap.com" target="_blank" class="custom-link-black">SAP</a>.
+          Alongside his work at SAP, he runs
+          <a href="https://mhds.studio" target="_blank" class="custom-link-black">MHDS Studio</a>,
+          an independent product studio. Over the past decade, Markus has enabled and upskilled over 1m developers globally through his content, and his work at SAP impacts more than 4.5m learners annually. He is a frequent speaker at flagship tech events and a contributor to AI research and innovation. Markus combines technical expertise and an entrepreneurial mindset to deliver impactful, scalable solutions.
+        </p>
+      </div>
+
+      <div class="cta-buttons">
+        <a href="https://linkedin.com/in/haugmarkus" class="cta-button linkedin">
+          <i class="fab fa-linkedin"></i>
+          Connect on LinkedIn
+        </a>
+        <a href="https://mhds.studio" class="cta-button mhds-primary">
+          <img src="{{ '/favicon.ico' | relative_url }}" alt="Favicon" style="width:1.3em; height:1.3em; vertical-align:middle; margin-right:0.4em;">
+           Explore MHDS Studio
+        </a>
+      </div>
+    </div>
+
+    <div class="profile-section">
+      <div class="profile-image">
+        <img src="{{ '/assets/img/markus_haug.jpeg' | relative_url }}" alt="{{ site.first_name }} {{ site.last_name }}"
+          class="{% if page.profile.image_circular %}circular{% endif %}">
+      </div>
+      <p class="role">{{ site.job_title }}</p>
+    </div>
+  </div>
+
+  <div class="content-sections">
+    <section id="research">
+      <h2>Publications</h2>
+      
+      <div class="research-table">
+        <div class="research-row">
+          <div class="research-year">2025</div>
+          <div class="research-content">
+            <div class="research-title">
+              <a href="https://link.springer.com/chapter/10.1007/978-3-031-87647-9_25">Anomaly Detection for Cyber Security Applications</a>
+              <div class="research-links">
+                <a href="https://link.springer.com/chapter/10.1007/978-3-031-87647-9_25" class="research-link" title="View Paper" target="_blank">
+                  <i class="fas fa-file-alt"></i>
+                </a>
+                <a href="https://arxiv.org/pdf/2504.18771" class="research-link" title="arXiv" target="_blank">
+                  <span style="font-size: 0.85rem; font-weight: 600;">arXiv</span>
+                </a>
+                <a href="https://github.com/markushaug/acr-25" class="research-link" title="GitHub Repository" target="_blank">
+                  <i class="fab fa-github"></i>
+                </a>
+              </div>
+            </div>
+            <div class="research-venue">ACR'25 — Advances in Computing Research</div>
+            <div class="research-description">Machine learning approaches for anomaly detection in cybersecurity, focusing on deep learning and generative models to identify and mitigate security threats in real-time systems.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="cards-container" style="margin-top: 2rem;">
+        <div class="card">
+          <h3>Research Interests</h3>
+          <ul>
+            <li>Machine Learning & Deep Learning</li>
+            <li>Generative Models & AI</li>
+            <li>NLP and Computer Vision</li>
+            <li>Multi-Agent Systems</li>
+            <li>Cybersecurity Applications of ML</li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>Academic Background</h3>
+          <ul>
+            <li>B.Sc. in Business Informatics (Focus: Deep Learning)</li>
+            <li>Studies in Strategic Management at <a href="https://www.worc.ox.ac.uk/">Worcester College, University of Oxford</a></li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section id="professional-experience">
+      <h2>Professional Experience</h2>
+      <div class="cards-container">
+        <div class="card highlight-card">
+          <h3>Senior Product Learning Specialist at SAP</h3>
+          <p>Contributing to SAP's product strategy by creating world-class technical learning content and by
+            evangelizing SAP products to the next generation of tech builders. I partner closely with teams across SAP,
+            including Product, DevRel, and Comms.</p>
+          <ul>
+            <li>Advising and supporting developers worldwide in their learning journey</li>
+            <li>Creating engaging educational content and learning paths</li>
+            <li>Speaking at conferences and technical events</li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>Founder & Managing Director of MHDS</h3>
+          <ul>
+            <li>Founder & Managing Director of <a href="https://mhds.studio">MHDS</a>, a boutique product studio focused on innovative digital
+              solutions</li>
+          </ul>
+          <div class="card-cta">
+            <a href="https://mhds.studio" class="cta-button mhds">
+              <img src="{{ '/favicon.ico' | relative_url }}" alt="Favicon" style="width:1.3em; height:1.3em; vertical-align:middle; margin-right:0.4em;">
+              Explore MHDS Studio
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="featured-work">
+      <h2>Featured Work</h2>
+      <div class="cards-container">
+        <div class="card">
+          <h3>Publications & Talks</h3>
+          <ul>
+            <li>Published research on anomaly detection for cybersecurity at <a href="https://link.springer.com/chapter/10.1007/978-3-031-87647-9_25">ACR'25</a></li>
+            <li>Regular speaker at SAP technical events and flagship conferences worldwide</li>
+            <li>Author of widely read technical articles on the SAP Community</li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>Technical Expertise</h3>
+          <div class="skills-grid">
+            <div class="skill-tag">AI & ML</div>
+            <div class="skill-tag">Cloud Tech</div>
+            <div class="skill-tag">Product Dev</div>
+            <div class="skill-tag">Dev Education</div>
+            <div class="skill-tag">Enterprise SW</div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+</div>
+
+<style>
+  .modern-about {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+  }
+
+  .hero-section {
+    display: grid;
+    grid-template-columns: 1.2fr 0.8fr;
+    gap: 4rem;
+    align-items: center;
+    margin-bottom: 3rem;
+  }
+
+  .hero-content {
+    padding-right: 2rem;
+  }
+
+  .name {
+    font-size: 3.5rem;
+    font-weight: 700;
+    margin: 0;
+    line-height: 1.2;
+  }
+
+  .tagline {
+    font-size: 1rem;
+    color: #666;
+    margin: 1rem 0 2rem;
+  }
+
+  .intro {
+    font-size: 1.1rem;
+    line-height: 1.4;
+    color: #444;
+    margin-bottom: 2rem;
+  }
+
+  .location-info {
+    font-size: 1rem;
+    color: #666;
+  }
+
+  .location-info p {
+    margin: 0.5rem 0;
+  }
+
+  .cta-buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+    margin-top: 2rem;
+  }
+
+  .cta-button {
+    display: flex;
+    align-items: center;
+    padding: 0.8rem 1.5rem;
+    border-radius: 2rem;
+    font-weight: 500;
+    text-decoration: none;
+    transition: all 0.3s ease;
+    font-size: 1rem;
+    width: fit-content;
+  }
+
+  .cta-button:hover {
+    text-decoration: none;
+  }
+
+  .cta-button i {
+    margin-right: 0.5rem;
+    font-size: 1.2rem;
+  }
+
+  .cta-button.linkedin {
+    background-color: #0a66c2;
+    color: white;
+    border: none;
+  }
+
+  .cta-button.linkedin:hover {
+    background-color: #004182;
+    transform: translateY(-2px);
+    text-decoration: none;
+  }
+
+  .cta-button.mhds {
+    background-color: #edf2f7;
+    color: #2d3748;
+    border: none;
+    font-size: 0.9rem;
+    padding: 0.4rem 1rem;
+  }
+
+  .cta-button.mhds:hover {
+    background-color: #e2e8f0;
+    transform: translateY(-1px);
+    text-decoration: none;
+  }
+
+  .cta-button.mhds i {
+    font-size: 0.8rem;
+  }
+
+  .cta-button.mhds-primary {
+    background-color: #edf2f7;
+    color: #2d3748;
+    border: none;
+  }
+
+  .cta-button.mhds-primary:hover {
+    background-color: #e2e8f0;
+    transform: translateY(-1px);
+    text-decoration: none;
+  }
+
+  .profile-section {
+    text-align: center;
+  }
+
+  .profile-image {
+    margin-bottom: 1rem;
+  }
+
+  .role {
+    font-size: 1.1rem;
+    color: #666;
+    margin: 0.5rem 0;
+    font-weight: 400;
+  }
+
+  .profile-image img {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    border-radius: 1rem;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+  }
+
+  .profile-image img.circular {
+    border-radius: 50%;
+  }
+
+  .card-cta {
+    margin-top: 1.5rem;
+    text-align: center;
+  }
+
+  .content-sections {
+    margin-top: 4rem;
+  }
+
+  .content-sections h2 {
+    font-size: 2rem;
+    margin: 3rem 0 2rem;
+    color: #333;
+  }
+
+  .cards-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1.5rem;
+    margin: 1.5rem 0;
+  }
+
+  .card {
+    background: white;
+    border-radius: 0.8rem;
+    padding: 1.5rem;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+
+  .card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.15);
+  }
+
+  .card h3 {
+    font-size: 1.3rem;
+    color: #333;
+    margin: 0 0 0.8rem;
+    padding-bottom: 0.8rem;
+    border-bottom: 2px solid #f0f0f0;
+  }
+
+  .card p {
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #555;
+    margin-bottom: 0.8rem;
+  }
+
+  .card ul {
+    padding-left: 1.2rem;
+    margin: 0.5rem 0;
+    list-style-type: none;
+  }
+
+  .card li {
+    margin: 0.5rem 0;
+    font-size: 1rem;
+    line-height: 1.4;
+    color: #555;
+    position: relative;
+    padding-left: 1.2rem;
+  }
+
+  .card li:before {
+    content: "•";
+    color: #0366d6;
+    font-weight: bold;
+    position: absolute;
+    left: 0;
+  }
+
+  .highlight-card {
+    background: linear-gradient(135deg, #0366d6 0%, #0550ae 100%);
+    color: white;
+  }
+
+  .highlight-card h3,
+  .highlight-card p,
+  .highlight-card li {
+    color: white;
+  }
+
+  .highlight-card li:before {
+    color: #ffffff;
+  }
+
+  .highlight-card a {
+    color: rgba(255, 255, 255, 0.9);
+    text-decoration: underline;
+  }
+
+  .highlight-card a:hover {
+    color: #ffffff;
+  }
+
+  .research-table {
+    margin: 2rem 0;
+    border: 1px solid #e8e8e8;
+    border-radius: 0.5rem;
+    overflow: hidden;
+    background: white;
+  }
+
+  .research-row {
+    display: grid;
+    grid-template-columns: 80px 1fr;
+    border-bottom: 1px solid #f0f0f0;
+    transition: background-color 0.2s ease;
+  }
+
+  .research-row:last-child {
+    border-bottom: none;
+  }
+
+  .research-row:hover {
+    background-color: #fafafa;
+  }
+
+  .research-year {
+    padding: 1.5rem 1.2rem;
+    background: linear-gradient(135deg, #f8f9fa 0%, #f0f2f5 100%);
+    border-right: 1px solid #e8e8e8;
+    font-weight: 600;
+    font-size: 1.1rem;
+    color: #0366d6;
+    display: flex;
+    align-items: flex-start;
+    text-align: center;
+    justify-content: center;
+  }
+
+  .research-content {
+    padding: 1.5rem 2rem;
+  }
+
+  .research-title {
+    margin-bottom: 0.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+  }
+
+  .research-title > a {
+    font-size: 1.15rem;
+    font-weight: 600;
+    color: #333;
+    text-decoration: none;
+    transition: color 0.2s ease;
+    flex: 1;
+  }
+
+  .research-title > a:hover {
+    color: #0366d6;
+    text-decoration: underline;
+  }
+
+  .research-links {
+    display: flex;
+    gap: 0.75rem;
+    align-items: center;
+  }
+
+  .research-link {
+    color: #666;
+    font-size: 1.1rem;
+    text-decoration: none;
+    transition: all 0.2s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+    border-radius: 4px;
+  }
+
+  .research-link:hover {
+    color: #0366d6;
+    background-color: #f0f7ff;
+    text-decoration: none;
+  }
+
+  .research-link i {
+    font-size: 1rem;
+  }
+
+  .research-venue {
+    font-size: 0.95rem;
+    color: #666;
+    margin-bottom: 0.8rem;
+    font-style: italic;
+  }
+
+  .research-description {
+    font-size: 0.95rem;
+    line-height: 1.6;
+    color: #555;
+  }
+
+  .skills-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+    gap: 0.8rem;
+    margin: 0.8rem 0;
+  }
+
+  .skill-tag {
+    background: #f5f5f5;
+    padding: 0.4rem 0.8rem;
+    border-radius: 1.5rem;
+    text-align: center;
+    font-size: 0.9rem;
+    color: #444;
+    transition: background 0.3s ease;
+  }
+
+  .skill-tag:hover {
+    background: #e0e0e0;
+  }
+
+  @media (max-width: 768px) {
+    .modern-about {
+      padding: 1rem;
+    }
+
+    .hero-section {
+      grid-template-columns: 1fr;
+      gap: 2rem;
+      margin-bottom: 2rem;
+    }
+
+    .hero-content {
+      padding: 0;
+      text-align: center;
+    }
+
+    .name {
+      font-size: 2rem;
+      margin-bottom: 0.5rem;
+    }
+
+    .tagline {
+      font-size: 1rem;
+      margin: 0.5rem 0 1rem;
+    }
+
+    .intro {
+      font-size: 1rem;
+      line-height: 1.5;
+      margin-bottom: 1.5rem;
+    }
+
+    .profile-section {
+      order: -1;
+      margin-bottom: 1rem;
+    }
+
+    .profile-image {
+      width: 180px;
+      height: 180px;
+      margin: 0 auto 1rem;
+    }
+
+    .profile-image img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    .role {
+      font-size: 0.9rem;
+      margin: 0.5rem 0;
+    }
+
+    .cta-buttons {
+      width: 100%;
+      gap: 0.75rem;
+    }
+
+    .cta-button {
+      width: 100%;
+      justify-content: center;
+      padding: 0.7rem 1rem;
+      font-size: 0.95rem;
+    }
+
+    .cta-button i {
+      font-size: 1rem;
+    }
+
+    .research-row {
+      grid-template-columns: 1fr;
+    }
+
+    .research-year {
+      border-right: none;
+      border-bottom: 1px solid #e8e8e8;
+      padding: 1rem 1.2rem;
+      text-align: left;
+      justify-content: flex-start;
+    }
+
+    .research-content {
+      padding: 1.2rem 1.5rem;
+    }
+
+    .research-title {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 0.5rem;
+    }
+
+    .research-title > a {
+      font-size: 1.05rem;
+    }
+
+    .research-links {
+      align-self: flex-start;
+    }
+  }
+</style>
