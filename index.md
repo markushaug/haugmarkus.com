@@ -1,3 +1,0 @@
----
-layout: modern_about
----
