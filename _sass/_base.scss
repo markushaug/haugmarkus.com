@@ -268,7 +268,7 @@ blockquote {
   .navbar-nav .nav-item.active>.nav-link {
     background-color: inherit;
     font-weight: bolder;
-    color: var(--global-theme-color);
+    color: var(--global-text-color);
 
     &:hover {
       color: var(--global-hover-color);
@@ -430,6 +430,14 @@ footer.sticky-bottom {
   padding-top: 40px;
   padding-bottom: 40px;
   font-size: 0.9rem;
+
+  a {
+    color: var(--global-text-color);
+
+    &:hover {
+      color: var(--global-hover-color);
+    }
+  }
 }
 
 // Ensure footer stays at bottom
@@ -1089,4 +1097,55 @@ nav[data-toggle="toc"] {
 
 #toc-sidebar {
   z-index: 1;
+}
+
+/* 
+ * Global Typography & WWM Button Styles 
+ */
+body {
+  font-family: 'Geist', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  letter-spacing: -0.011em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+  letter-spacing: -0.011em;
+}
+
+.wwm-btn {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.65rem 1rem;
+  font-size: 0.9rem;
+  font-weight: 500;
+  text-decoration: none;
+  border-radius: 6px;
+  border: 1px solid transparent;
+  transition: background 0.15s ease, color 0.15s ease;
+  line-height: 1.2;
+  white-space: nowrap;
+}
+.wwm-btn:hover { text-decoration: none; }
+.wwm-btn-primary { background: #111; color: #fff !important; }
+.wwm-btn-primary:hover { background: #000; }
+.wwm-btn-ghost {
+  background: transparent;
+  color: #555 !important;
+  padding-left: 0;
+  padding-right: 0;
+}
+.wwm-btn-ghost:hover { color: #111 !important; }
+
+/* Overriding bootstrap buttons to match wwm buttons if any exist globally */
+.btn-primary {
+  @extend .wwm-btn;
+  @extend .wwm-btn-primary;
+}
+
+
+.wwm-cta-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 1.25rem;
+  align-items: center;
 }

@@ -7,7 +7,7 @@ layout: default
   <div class="hero-section">
     <div class="hero-content">
       <h1 class="name">{{ site.first_name }} {{ site.last_name }}</h1>
-      <p class="tagline">Tech Entrepreneur | Cloud & AI Expert | Tech Innovator</p>
+      <p class="tagline">Tech Lead & Product Owner | Cloud Native & AI | Global Speaker</p>
 
       <div class="intro">
         <style>
@@ -15,29 +15,51 @@ layout: default
             color: #111 !important;
             text-decoration: none;
             transition: text-decoration 0.2s;
+            font-weight: 600;
           }
           .custom-link-black:hover,
           .custom-link-black:focus {
             text-decoration: underline;
           }
+          .hero-bullets {
+            list-style: none;
+            padding: 0;
+            margin: 1.5rem 0 2rem 0;
+          }
+          .hero-bullets li {
+            position: relative;
+            padding-left: 1.4rem;
+            margin-bottom: 0.5rem;
+            color: #333;
+            font-weight: 500;
+          }
+          .hero-bullets li::before {
+            content: "→";
+            position: absolute;
+            left: 0;
+            color: #111;
+            font-weight: 600;
+          }
         </style>
         <p>
-          Markus Haug is a serial tech entrepreneur and Senior Product Learning Specialist at
-          <a href="https://sap.com" target="_blank" class="custom-link-black">SAP</a>.
-          Alongside his work at SAP, he runs
-          <a href="https://mhds.studio" target="_blank" class="custom-link-black">MHDS Studio</a>,
-          an independent product studio. Over the past decade, Markus has enabled and upskilled over 1m developers globally through his content, and his work at SAP impacts more than 4.5m learners annually. He is a frequent speaker at flagship tech events and a contributor to AI research and innovation. Markus combines technical expertise and an entrepreneurial mindset to deliver impactful, scalable solutions.
+          Currently, I work at <a href="https://sap.com" target="_blank" class="custom-link-black">SAP</a>, focusing on core AI products, development frameworks, and cloud infrastructure. My primary mission is technical enablement: I engineer and ship developer education at scale, with content distributed across SAP Learning, Coursera, and live events, reaching millions of learners globally.
         </p>
+        <p>
+          Internally, I also serve as the product owner and technical lead for a highly specialized <strong>agentic AI layer</strong>. I architected and lead the engineering of this advanced system, which autonomously generates, updates, and scales complex technical content for fast-moving product cycles. Integrated directly across our core learning platforms, it drastically reduces time-to-market for educational content. Beyond product development, I regularly design and deliver hands-on technical deep-dives for Fortune 500 & Big 4 engineering teams on cloud architecture and enterprise systems.
+        </p>
+        <ul class="hero-bullets">
+          <li>Agentic AI Engineering & Tooling</li>
+          <li>Cloud-Native Tech Leadership & Product Ownership</li>
+          <li>Global Developer Enablement & Tech Keynotes</li>
+        </ul>
       </div>
 
-      <div class="cta-buttons">
-        <a href="https://linkedin.com/in/haugmarkus" class="cta-button linkedin">
-          <i class="fab fa-linkedin"></i>
-          Connect on LinkedIn
+      <div class="wwm-cta-row" style="margin-top: 2rem;">
+        <a href="https://calendly.com/haugmarkus/30min" class="wwm-btn wwm-btn-primary">
+          Book a 30-min intro call →
         </a>
-        <a href="https://mhds.studio" class="cta-button mhds-primary">
-          <img src="{{ '/favicon.ico' | relative_url }}" alt="Favicon" style="width:1.3em; height:1.3em; vertical-align:middle; margin-right:0.4em;">
-           Explore MHDS Studio
+        <a href="https://linkedin.com/in/haugmarkus" class="wwm-btn wwm-btn-ghost">
+          Connect on LinkedIn
         </a>
       </div>
     </div>
@@ -47,7 +69,6 @@ layout: default
         <img src="{{ '/assets/img/markus_haug.jpeg' | relative_url }}" alt="{{ site.first_name }} {{ site.last_name }}"
           class="{% if page.profile.image_circular %}circular{% endif %}">
       </div>
-      <p class="role">{{ site.job_title }}</p>
     </div>
   </div>
 
@@ -105,50 +126,27 @@ layout: default
       <div class="cards-container">
         <div class="card highlight-card">
           <h3>Senior Product Learning Specialist at SAP</h3>
-          <p>Contributing to SAP's product strategy by creating world-class technical learning content and by
-            evangelizing SAP products to the next generation of tech builders. I partner closely with teams across SAP,
-            including Product, DevRel, and Comms.</p>
+          <p>Leading global enablement strategy across product, developer, and partner audiences — and co-leading SME Studio, an AI-native content platform that ships at SAP scale.</p>
           <ul>
-            <li>Advising and supporting developers worldwide in their learning journey</li>
-            <li>Creating engaging educational content and learning paths</li>
-            <li>Speaking at conferences and technical events</li>
+            <li>Designing systems reaching 4.5M+ learners annually</li>
+            <li>Powering 2.9M+ active learners via AI-native platforms</li>
+            <li>Speaking globally at flagship tech events and conferences</li>
           </ul>
         </div>
         <div class="card">
-          <h3>Founder & Managing Director of MHDS</h3>
+          <h3>Independent Engineering & Advisory</h3>
+          <p>I take on a small number of advisory and build engagements each year — from architecture reviews to shipping a real MVP. Lean, focused, and senior throughout.</p>
           <ul>
-            <li>Founder & Managing Director of <a href="https://mhds.studio">MHDS</a>, a boutique product studio focused on innovative digital
-              solutions</li>
+            <li>Software engineering</li>
+            <li>AI / ML engineering</li>
+            <li>Web & app development</li>
+            <li>MVP & product development</li>
           </ul>
           <div class="card-cta">
-            <a href="https://mhds.studio" class="cta-button mhds">
-              <img src="{{ '/favicon.ico' | relative_url }}" alt="Favicon" style="width:1.3em; height:1.3em; vertical-align:middle; margin-right:0.4em;">
-              Explore MHDS Studio
+            <a href="/work-with-me" class="wwm-btn wwm-btn-primary">
+              <i class="fas fa-arrow-right" style="margin-right:0.4em;"></i>
+              How we can work together
             </a>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <section id="featured-work">
-      <h2>Featured Work</h2>
-      <div class="cards-container">
-        <div class="card">
-          <h3>Publications & Talks</h3>
-          <ul>
-            <li>Published research on anomaly detection for cybersecurity at <a href="https://link.springer.com/chapter/10.1007/978-3-031-87647-9_25">ACR'25</a></li>
-            <li>Regular speaker at SAP technical events and flagship conferences worldwide</li>
-            <li>Author of widely read technical articles on the SAP Community</li>
-          </ul>
-        </div>
-        <div class="card">
-          <h3>Technical Expertise</h3>
-          <div class="skills-grid">
-            <div class="skill-tag">AI & ML</div>
-            <div class="skill-tag">Cloud Tech</div>
-            <div class="skill-tag">Product Dev</div>
-            <div class="skill-tag">Dev Education</div>
-            <div class="skill-tag">Enterprise SW</div>
           </div>
         </div>
       </div>
@@ -158,15 +156,15 @@ layout: default
 
 <style>
   .modern-about {
-    max-width: 1200px;
+    max-width: 1000px;
     margin: 0 auto;
-    padding: 2rem;
+    padding: 2rem 0;
   }
 
   .hero-section {
     display: grid;
-    grid-template-columns: 1.2fr 0.8fr;
-    gap: 4rem;
+    grid-template-columns: 1.1fr 1fr;
+    gap: 3rem;
     align-items: center;
     margin-bottom: 3rem;
   }
@@ -180,6 +178,7 @@ layout: default
     font-weight: 700;
     margin: 0;
     line-height: 1.2;
+    white-space: nowrap;
   }
 
   .tagline {
@@ -189,8 +188,8 @@ layout: default
   }
 
   .intro {
-    font-size: 1.1rem;
-    line-height: 1.4;
+    font-size: 1rem;
+    line-height: 1.5;
     color: #444;
     margin-bottom: 2rem;
   }
@@ -204,75 +203,16 @@ layout: default
     margin: 0.5rem 0;
   }
 
-  .cta-buttons {
-    display: flex;
-    flex-direction: column;
-    gap: 0.75rem;
-    margin-top: 2rem;
-  }
 
-  .cta-button {
-    display: flex;
-    align-items: center;
-    padding: 0.8rem 1.5rem;
-    border-radius: 2rem;
-    font-weight: 500;
-    text-decoration: none;
-    transition: all 0.3s ease;
-    font-size: 1rem;
-    width: fit-content;
-  }
 
-  .cta-button:hover {
-    text-decoration: none;
-  }
 
-  .cta-button i {
-    margin-right: 0.5rem;
-    font-size: 1.2rem;
-  }
 
-  .cta-button.linkedin {
-    background-color: #0a66c2;
-    color: white;
-    border: none;
-  }
 
-  .cta-button.linkedin:hover {
-    background-color: #004182;
-    transform: translateY(-2px);
-    text-decoration: none;
-  }
 
-  .cta-button.mhds {
-    background-color: #edf2f7;
-    color: #2d3748;
-    border: none;
-    font-size: 0.9rem;
-    padding: 0.4rem 1rem;
-  }
 
-  .cta-button.mhds:hover {
-    background-color: #e2e8f0;
-    transform: translateY(-1px);
-    text-decoration: none;
-  }
 
-  .cta-button.mhds i {
-    font-size: 0.8rem;
-  }
 
-  .cta-button.mhds-primary {
-    background-color: #edf2f7;
-    color: #2d3748;
-    border: none;
-  }
 
-  .cta-button.mhds-primary:hover {
-    background-color: #e2e8f0;
-    transform: translateY(-1px);
-    text-decoration: none;
-  }
 
   .profile-section {
     text-align: center;
@@ -291,7 +231,7 @@ layout: default
 
   .profile-image img {
     width: 100%;
-    max-width: 400px;
+    max-width: 600px;
     height: auto;
     border-radius: 1rem;
     box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
@@ -525,7 +465,7 @@ layout: default
 
   @media (max-width: 768px) {
     .modern-about {
-      padding: 1rem;
+      padding: 1rem 0;
     }
 
     .hero-section {
@@ -577,21 +517,8 @@ layout: default
       margin: 0.5rem 0;
     }
 
-    .cta-buttons {
-      width: 100%;
-      gap: 0.75rem;
-    }
 
-    .cta-button {
-      width: 100%;
-      justify-content: center;
-      padding: 0.7rem 1rem;
-      font-size: 0.95rem;
-    }
 
-    .cta-button i {
-      font-size: 1rem;
-    }
 
     .research-row {
       grid-template-columns: 1fr;

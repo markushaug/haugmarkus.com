@@ -8,11 +8,11 @@ middle_name:
 last_name: Haug
 email: mh@haugmarkus.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Markus Haug - Senior Product Learning Specialist at SAP & Tech Entrepreneur. 
+  Markus Haug - AI Platform Lead & Generative AI Researcher.
 footer_text: >
-job_title: Senior Product Learning Specialist at SAP & Tech Entrepreneur
+job_title: Senior Product Learning Specialist at SAP & AI Researcher
 alumni_of: IU International University of Applied Sciences
-keywords: markus haug, markus haug sap, sap, deep learning, markus haug digital services, ai, machine learning, computer science, markus haug computer science, markus haug informatik, markus haug heilbronn, markus haug stuttgart, markus haug, würzburg, MHDS Studio, mhds studio, mhds, mhds.studio
+keywords: markus haug, markus haug sap, sap, deep learning, ai, machine learning, generative ai, computer science, software engineering, markus haug computer science, markus haug informatik, markus haug heilbronn, markus haug stuttgart, markus haug, würzburg
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: favicon.ico # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -51,7 +51,7 @@ navbar_fixed: true
 footer_fixed: false
 
 # Dimensions
-max_width: 800px
+max_width: 1000px
 
 # TODO: add layout settings (single page vs. multi-page)
 
@@ -70,6 +70,7 @@ og_image: true # The site-wide (default for all links) Open Graph preview image
 
 github_username: markushaug # your GitHub user name
 linkedin_username: haugmarkus # your LinkedIn user name
+x_username: _markushaug_ # your X user name
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
